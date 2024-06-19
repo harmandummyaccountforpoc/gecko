@@ -5,3 +5,4 @@ marionette_client >= 0.7.10
 moznetwork >= 0.24
 mozprofile >= 0.21
 mozrunner >= 6.1
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
